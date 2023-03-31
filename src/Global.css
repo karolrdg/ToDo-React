@@ -37,7 +37,7 @@ header {
 .btn:hover {
   color: white;
   border: 1px solid blueviolet;
-  padding: 8px;
+  padding: 7px;
   border-radius: 10px;
   background-color: blueviolet;
 }
