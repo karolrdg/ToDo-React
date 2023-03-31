@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+
+}
+
+#home  {
+  color: blueviolet;
+}
+
+header {
+  color: blueviolet;
+}
+
+.header {
+  background-color: #e8cfff;
+}
+
+#whoiam {
+  color: blueviolet;
+  transition: .50s;
+}
+
+#whoiam:hover {
+ color: #4c187c;
+}
+
+.btn {
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  padding: 8px;
+  border-radius: 10px;
+  transition: all .90s ease;
+}
+
+.btn:hover {
+  color: white;
+  border: 1px solid blueviolet;
+  padding: 8px;
+  border-radius: 10px;
+  background-color: blueviolet;
+}
